@@ -2,7 +2,8 @@
 
 I Am Software Engineer
 🛳
-💻⚔️
+⚔️
+:. .:. .: --- la loi des trois points 
 <!--
 **RaphaelGN/RaphaelGN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
